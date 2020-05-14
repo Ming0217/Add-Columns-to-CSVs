@@ -5,4 +5,4 @@ This python script could be run in terminal together with the xargs command line
 
 EXAMPLE (in the case below the python script is placed in the same folder as the CSV files):
 
-find *.csv | xargs python3 add_new_columns.py
+``find *.csv | xargs python3 add_new_columns.py``
